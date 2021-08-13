@@ -13,6 +13,9 @@ function Card(props) {
             <a href={props.link} target="blank">
               <button> Watch Now </button>
             </a>
+            <a href={props.linkd} target="blank">
+              <button> Download </button>
+              </a>
           </div>
         </div>
       </div>
