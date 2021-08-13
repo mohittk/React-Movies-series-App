@@ -1,5 +1,5 @@
 import ReactDOM from "react-dom";
-import Card from "./Cards";
+import Card from "./MCards";
 import "./styles.css";
 
 const rootElement = document.getElementById("root");
