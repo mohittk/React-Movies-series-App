@@ -1,6 +1,6 @@
 import ReactDOM from "react-dom";
-import Card from "./Mcards";
-import "./index.css";
+import Card from "./Cards";
+import "./styles.css";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
@@ -59,7 +59,6 @@ ReactDOM.render(
 
     <h4> Made with 💗 in React </h4>
   </>,
-
 
   rootElement
 );
