@@ -1,6 +1,6 @@
 import ReactDOM from "react-dom";
-import Card from "./MCards";
-import "./styles.css";
+import Card from "./Mcards";
+import "./index.css";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
