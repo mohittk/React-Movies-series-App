@@ -17,7 +17,7 @@ For more details checkout the source code.</h2>
 <h2>
 Below image is the demonstration of my project 'Movies-Webseries-App'. </h2>
 
-![image](https://user-images.githubusercontent.com/79041510/129171212-242dc04d-aed9-4bd1-8f36-dbf68dd94422.png)
+![image](https://user-images.githubusercontent.com/79041510/129312064-e08b4c01-b568-4b1f-9385-704747d775b8.png)
 
 
 
