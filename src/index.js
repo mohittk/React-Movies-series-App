@@ -58,7 +58,5 @@ ReactDOM.render(
     />
 
     <h4> Made with 💗 in React </h4>
-  </>,
-
-  rootElement
+  </>,rootElement
 );
